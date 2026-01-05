@@ -1,0 +1,8 @@
+
+### Breakdown Pro– Installation
+
+Add the following lines to init.py in .nuke folder
+(If init.py does not exist, create it)
+
+import nuke
+nuke.pluginAddPath("./Breakdown Pro")
