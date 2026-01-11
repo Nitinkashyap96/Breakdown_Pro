@@ -28,6 +28,15 @@ HI im Nitin Kashyap   VFX Compositor
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Nitin+Kashyap;" />
 </h1>
 
+# new version Breakdown Pro_v1.2
+
+    New Version add file explorer Open_Folder Button   Breakdown Folder
+    
+    add dot marker ToggleSwitch Button
+
+<img width="883" height="592" alt="Install_05" src="https://github.com/user-attachments/assets/dff65232-e48a-479e-9d49-db1936ca3f78" />
+
+
 
 <img width="723" height="466" alt="Install_01" src="https://github.com/user-attachments/assets/a82488ef-2462-49c7-ac8d-47b8c0312e3f" />
 
