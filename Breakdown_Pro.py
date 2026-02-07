@@ -538,16 +538,20 @@ class FrameBreakdown(QtWidgets.QDialog):
 # =========================================================
 # LAUNCHER
 # =========================================================
-
+# Execution
 def show_frame_breakdown():
-    FrameBreakdown().exec_()
+    global installer_ui
+    installer_ui = FrameBreakdown()
+    installer_ui.show()
 
-
+if __name__ == "__main__":
+    show_frame_breakdown()
 
 
 
 
 
 #show_frame_breakdown()
+
 
 
